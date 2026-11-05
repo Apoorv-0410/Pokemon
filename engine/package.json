@@ -1,0 +1,1 @@
+{ "name": "pokebot-engine", "version": "1.0.0", "private": true, "description": "Pokemon Showdown simulator worker for Pokebot", "main": "worker.js", "dependencies": { "@pkmn/sim": "0.10.13" } }

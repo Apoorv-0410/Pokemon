@@ -1,0 +1,1 @@
+"""Telegram Pokémon game bot."""
